@@ -10,7 +10,7 @@
 // const numbers = [3, 6, 9, 12, 15, 18, 21];
 // function evenSquares(arr) {
 //     return arr
-//         .filter(num => num % 2 === 0)
+//         .filter(num => num % 2 === 0 map num => num * num)
 // }
 
 // console.log(evenSquares(numbers));
