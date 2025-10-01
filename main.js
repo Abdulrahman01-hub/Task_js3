@@ -132,6 +132,7 @@
 
 //     for (let item of arr) {
 //         count[item] = (count[item] || 0) + 1;
+
 //         if (count[item] > maxCount) {
 //             maxCount = count[item];
 //             mostItem = item;
@@ -141,3 +142,15 @@
 // }
 // console.log(mostFrequent("1, 3, 2, 3, 4, 3, 5, 3"));
 // console.log(mostFrequent("a, b, a, c, a, b"));
+
+// let text = document.createElement("p");
+// text.textContent = "men yeni paragrafam";
+// document.body.append(text);
+
+// let h1 = document.querySelector("h1");
+// h1.textContent = "yeni basliq";
+
+// let heading = document.getElementById("myTitle");
+// let paragraphs = document.getElementsByTagName("p");
+// let special = document.querySelector(".special");
+
