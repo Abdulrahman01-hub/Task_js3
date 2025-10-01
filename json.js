@@ -23,13 +23,13 @@
 
 //task 4
 // function getNumbers(arr) {
-//     let evens = [];
+//     let num = [];
 //     for (let i = 0; i < arr.length; i++) {
 //         if (arr[i] % 2 === 0) {
-//             evens.push(arr[i]);
+//             num.push(arr[i]);
 //         }
 //     }
-//     return evens;
+//     return num;
 // }
 // console.log(getNumbers([1, 2, 3, 4, 5, 6, 7, 8]));
 
